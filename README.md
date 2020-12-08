@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Greg</h1>
-<h3 align="center">Passionate by learning new programming languages</h3>
+<h3 align="center">Passionate in learning new programming languages</h3>
 
 - 🔭 I’m currently finishing [Le Wagon](https://www.lewagon.com/)
 
