@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently finishing [Le Wagon](https://www.lewagon.com/)
 
-- 🌱 I’m currently learning **JavaScript, React and Angular**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 Checkout the Rails prototype I built [https://surf-your-trip.herokuapp.com/](https://surf-your-trip.herokuapp.com/)
 
